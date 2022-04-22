@@ -34,7 +34,7 @@
         android:backgroundTint="#CC003566"
         android:ems="10"
         android:fontFamily="sans-serif-condensed-light"
-        android:hint="Username"
+        android:hint="Username "
         android:paddingLeft="10dp"
         android:paddingTop="5dp"
         android:paddingRight="10dp"
